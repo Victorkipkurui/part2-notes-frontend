@@ -3,7 +3,7 @@
     {
       "id": "1",
       "content": "HTML is easy",
-      "important": false
+      "important": true
     },
     {
       "id": "2",
@@ -18,27 +18,22 @@
     {
       "id": "500f",
       "content": "Going Home",
-      "important": true
+      "important": false
     },
     {
       "id": "dd05",
       "content": "create nombers",
-      "important": false
-    },
-    {
-      "id": "4b38",
-      "content": "",
-      "important": false
-    },
-    {
-      "id": "c22c",
-      "content": "",
       "important": true
     },
     {
       "id": "582d",
       "content": "New clothes",
       "important": true
+    },
+    {
+      "id": "33cd",
+      "content": "Coming Home",
+      "important": false
     }
   ]
 }
