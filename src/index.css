@@ -11,3 +11,30 @@ h1{
   padding: 10px;
   margin-bottom: 10px;
 }
+.toggle{
+  background-color: rgb(63, 63, 238);
+  border: none;
+  padding: 5px 10px;
+  margin-left: 20px;
+  color: white;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.toggle:hover{
+  background-color: blue;
+}
+.notes{
+  margin-bottom: 10px;
+}
+.del{
+  background-color: rgb(223, 31, 41);
+  border: none;
+  padding: 5px 10px;
+  margin-left: 20px;
+  color: white;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.del:hover{
+  background-color:red;
+}
